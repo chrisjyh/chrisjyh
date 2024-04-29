@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Hello%20World&height=&animation=fadeIn)
 
-## ⚒️ Contact me
+## 🙂 Contact me
 - ✉️ mail : pureredgrace@gmail.com
 - ✍️ blog : https://velog.io/@chrisjyh/posts
 
