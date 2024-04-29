@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Hello%20World&height=&animation=fadeIn)
 
+## ⚒️ Contact me
+- ✉️ mail : pureredgrace@gmail.com
+- ✍️ blog : https://velog.io/@chrisjyh/posts
+
 ## ⚒️ Tech Stacks
 - Language 
   - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
