@@ -37,5 +37,8 @@ enum class AndroidSkill(
 ![my info](https://github-readme-stats.vercel.app/api?username=chrisjyh&theme=blue-green) ![my language](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjyh&theme=blue-green) -->
 
 ## 🙂 Contact me
-- ✉️ mail : pureredgrace@gmail.com
-- ✍️ blog : https://velog.io/@chrisjyh/posts
+- ✉️ mail : <a href='mailto:pureredgrace@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=black'/></a>
+
+## Tech Blog
+- ✍️ blog : <a href='https://velog.io/@chrisjyh/posts' target="_blank"><img alt='Velog' src='https://img.shields.io/badge/Velog-100000?style=flat-square&logo=Velog&logoColor=white&labelColor=black&color=black'/></a>
+
