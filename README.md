@@ -21,7 +21,7 @@
 
 ```kotlin
 enum class AndroidSkill(
-    val skills: Array<String>
+    private val skills: Array<String>
 ) {
     ARCHITECTURE(arrayOf("MVVM")),
     LIBRARY(arrayOf("Jetpack", "Material3")),
