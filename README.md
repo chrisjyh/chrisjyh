@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&text=Hello%20World&height=&animation=fadeIn)
 
-## 🙂 Contact me
-- ✉️ mail : pureredgrace@gmail.com
-- ✍️ blog : https://velog.io/@chrisjyh/posts
 
 ## ⚒️ Tech Stacks
 - Language 
@@ -38,3 +35,7 @@ enum class AndroidSkill(
 ```
 <!-- 
 ![my info](https://github-readme-stats.vercel.app/api?username=chrisjyh&theme=blue-green) ![my language](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjyh&theme=blue-green) -->
+
+## 🙂 Contact me
+- ✉️ mail : pureredgrace@gmail.com
+- ✍️ blog : https://velog.io/@chrisjyh/posts
