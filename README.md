@@ -20,18 +20,17 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ```kotlin
-enum class AndroidSkill(
-    private val skills: Array<String>
-) {
-    ARCHITECTURE(arrayOf("MVVM")),
-    LIBRARY(arrayOf("Jetpack", "Material3")),
-    NETWORKING(arrayOf("OkHttp3", "Retrofit2", "GSON")),
-    JETPACK(arrayOf("AAC", "LiveData", "StateFlow", "ViewModel", "Navigation", "DataStore")),
-    ASYNCHRONOUS(arrayOf("Rxkotlin", "Thread/Coroutine channel", "Flow Binding")),
-    LOCAL_DB(arrayOf("SQLite3 & Room DB")),
-    DI(arrayOf("Dagger-Hilt")),
-    MLKIT(arrayOf("ML Kit"))
+AndroidSkill.apply{
+  architecture = "MVVM"
+  library = "Jetpack, Material3"
+  networking = "OkHttp3, Retrofit2, Gson"
+  jetpack = "AAC, LiveData, StateFlow, ViewModel, Navigation, DataStore"
+  asynchronous = "Rxkotlin, Thread/Coroutine, channel/flow, FlowBinding"
+  localDB = "SQLite3 & Room DB"
+  di = "Dagger-hilt"
+  ml = "ML-kit, tensorflow lite"
 }
+
 ```
 <!-- 
 ![my info](https://github-readme-stats.vercel.app/api?username=chrisjyh&theme=blue-green) ![my language](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjyh&theme=blue-green) -->
