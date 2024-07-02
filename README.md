@@ -2,6 +2,21 @@
 
 
 ## ⚒️ Tech Stacks
+
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+```kotlin
+AndroidSkill.apply{
+  architecture = "MVVM"
+  library = "Jetpack, Material3"
+  networking = "OkHttp3, Retrofit2, Gson"
+  jetpack = "AAC, LiveData, StateFlow, ViewModel, Navigation, DataStore"
+  asynchronous = "Rxkotlin, Thread/Coroutine, channel/flow, FlowBinding"
+  localDB = "SQLite3 & Room DB"
+  di = "Dagger-hilt"
+  ml = "ML-kit, tensorflow lite"
+}
+```
 - Language 
   - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,21 +32,6 @@
   
 
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-```kotlin
-AndroidSkill.apply{
-  architecture = "MVVM"
-  library = "Jetpack, Material3"
-  networking = "OkHttp3, Retrofit2, Gson"
-  jetpack = "AAC, LiveData, StateFlow, ViewModel, Navigation, DataStore"
-  asynchronous = "Rxkotlin, Thread/Coroutine, channel/flow, FlowBinding"
-  localDB = "SQLite3 & Room DB"
-  di = "Dagger-hilt"
-  ml = "ML-kit, tensorflow lite"
-}
-
-```
 <!-- 
 ![my info](https://github-readme-stats.vercel.app/api?username=chrisjyh&theme=blue-green) ![my language](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisjyh&theme=blue-green) -->
 
